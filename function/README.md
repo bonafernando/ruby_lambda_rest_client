@@ -1,6 +1,6 @@
 # Rest client ruby lambda
 
-Fisrt you'll need to install the rest client gem on the vendor path:
+First you'll need to install the rest client gem on the vendor path:
 
 `./bundle.sh` or `bundle install --path vendor/bundle`
 
